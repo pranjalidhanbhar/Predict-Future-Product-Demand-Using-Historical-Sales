@@ -141,62 +141,60 @@ The dashboard provides insights into:
 
 ---
 
-## 🔄 Project Workflow
+## 🔄 **Project Workflow**
 
-```text
-Data Collection
-      ↓
-Data Understanding
-      ↓
-Data Cleaning & Preprocessing
-      ↓
-Exploratory Data Analysis
-      ↓
-Feature Analysis
-      ↓
-Demand Forecasting
-      ↓
-Model Evaluation
-      ↓
-Dashboard Development
-      ↓
-Business Insights
-      ↓
-Decision Support
+**Data Collection**  
+↓  
+**Data Understanding**  
+↓  
+**Data Cleaning & Preprocessing**  
+↓  
+**Exploratory Data Analysis**  
+↓  
+**Feature Analysis**  
+↓  
+**Demand Forecasting**  
+↓  
+**Model Evaluation**  
+↓  
+**Dashboard Development**  
+↓  
+**Business Insights**  
+↓  
+**Decision Support**
 
-📌 Results & Business Insights
+## 📊 **Results & Business Insights**
 
-The analysis provides a better understanding of historical sales and product demand patterns.
+**Key outcomes include:**
 
-Key outcomes include:
+- **Identification of important demand trends.**
+- **Better understanding of product-level sales performance.**
+- **Insights into the relationship between pricing, discounts, and demand.**
+- **Identification of seasonal sales patterns.**
+- **Improved understanding of customer purchasing behavior.**
+- **Data-driven insights to support inventory and demand planning.**
+- **Interactive visualization of important business metrics.**
 
-Identification of important demand trends.
-Better understanding of product-level sales performance.
-Insights into the relationship between pricing, discounts, and demand.
-Identification of seasonal sales patterns.
-Improved understanding of customer purchasing behavior.
-Data-driven insights to support inventory and demand planning.
-Interactive visualization of important business metrics.
+**The project demonstrates how historical business data can be transformed into meaningful insights for better decision-making.**
 
-The project demonstrates how historical business data can be transformed into meaningful insights for better decision-making.
+## 🚀 **Future Enhancements**
 
+**The project can be further enhanced by:**
 
-🚀 Future Enhancements
+- **Implementing advanced time-series forecasting models.**
+- **Adding real-time sales data integration.**
+- **Developing automated demand forecasting pipelines.**
+- **Improving model accuracy through hyperparameter tuning.**
+- **Adding advanced predictive analytics.**
+- **Integrating interactive dashboard filters.**
+- **Deploying the forecasting solution as a web application.**
+- **Adding automated model retraining.**
+- **Implementing real-time business KPI monitoring.**
 
-The project can be further enhanced by:
+---
 
-Implementing advanced time-series forecasting models.
-Adding real-time sales data integration.
-Developing automated demand forecasting pipelines.
-Improving model accuracy through hyperparameter tuning.
-Adding advanced predictive analytics.
-Integrating interactive dashboard filters.
-Deploying the forecasting solution as a web application.
-Adding automated model retraining.
-Implementing real-time business KPI monitoring.
+## 👩‍💻 **Project Author**
 
-👩‍💻 Project Author
+**Pranjali Dhanbhar**
 
-Pranjali Dhanbhar
-
-Data Analyst | AI & Generative AI Enthusiast
+**Data Analyst | AI & Generative AI Enthusiast**
